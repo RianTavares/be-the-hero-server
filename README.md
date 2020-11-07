@@ -6,7 +6,7 @@
 
 
 ## :rocket: Sobre esse projeto
-<p>Este projeto é o cliente mobile de um projeto parte da Semana Omnistack de 2020 ofertada pela <a href="https://rocketseat.com.br/" target="_blank"> RocketSeat</a>. 
+<p>Este é o servidor de um projeto parte da Semana Omnistack de 2020 ofertada pela <a href="https://rocketseat.com.br/" target="_blank"> RocketSeat</a>. 
 Na semana Omnistack desenvolvemos um projeto desde seu back-end em <strong>NodeJs</strong> com integração ao database<strong> SQlite</strong>, seu cliente web com <strong>ReactJs</strong>  e seu cliente mobile com <strong>React Native</strong>  </p>
 <p>O Intuito da aplicação de back-end, ou seja, deste projeto, é possibilitar que os dados persistam em um banco de dados e através de rotas no modelo REST servir esses dados tanto para a aplicação web quanto para o aplicativo mobile</p>
 
